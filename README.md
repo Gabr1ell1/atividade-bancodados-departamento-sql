@@ -35,7 +35,8 @@ Neste projeto, trabalhei consultas envolvendo clientes, pedidos, produtos, funci
 
 ✔ Subconsultas com NOT IN
 
-✔ Interpretação de regras de negócio através de consultas✔ Relacionamentos entre múltiplas entidades
+✔ Interpretação de regras de negócio através de consultas
+✔ Relacionamentos entre múltiplas entidades
 
 ✔ Consultas com 3 e 4 tabelas simultaneamente
 
