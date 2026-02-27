@@ -19,3 +19,21 @@ Projeto desenvolvido com foco em prática de modelagem e manipulação de banco 
 
 # 🛠️ Tecnologias
 <p> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+
+Neste projeto, trabalhei consultas envolvendo clientes, pedidos, produtos, funcionários, dependentes e premiações, aplicando conceitos essenciais de banco de dados relacional.Neste projeto, trabalhei consultas envolvendo clientes, pedidos, produtos, funcionários, dependentes e premiações, aplicando conceitos essenciais de banco de dados relacional.
+
+✔ Relacionamentos entre múltiplas entidades
+✔ Consultas com 3 e 4 tabelas simultaneamente
+✔ Agregações com GROUP BY
+✔ Funções de agregação (COUNT, SUM)
+✔ Filtros condicionais
+✔ Subconsultas com NOT IN
+✔ Interpretação de regras de negócio através de consultas✔ Relacionamentos entre múltiplas entidades
+✔ Consultas com 3 e 4 tabelas simultaneamente
+✔ Agregações com GROUP BY
+✔ Funções de agregação (COUNT, SUM)
+✔ Filtros condicionais
+✔ Subconsultas com NOT IN
+✔ Interpretação de regras de negócio através de consultas
+
+📌 Nível: Intermediário em SQL (foco em banco relacional e consultas complexas)
