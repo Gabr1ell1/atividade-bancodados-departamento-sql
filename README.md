@@ -23,32 +23,6 @@ Projeto desenvolvido com foco em prática de modelagem e manipulação de banco 
 # 
 Neste projeto, trabalhei consultas envolvendo clientes, pedidos, produtos, funcionários, dependentes e premiações, aplicando conceitos essenciais de banco de dados relacional.Neste projeto, trabalhei consultas envolvendo clientes, pedidos, produtos, funcionários, dependentes e premiações, aplicando conceitos essenciais de banco de dados relacional.
 
-✔ Relacionamentos entre múltiplas entidades
-
-✔ Consultas com 3 e 4 tabelas simultaneamente
-
-✔ Agregações com GROUP BY
-
-✔ Funções de agregação (COUNT, SUM)
-
-✔ Filtros condicionais
-
-✔ Subconsultas com NOT IN
-
-✔ Interpretação de regras de negócio através de consultas
-
-✔ Relacionamentos entre múltiplas entidades
-
-✔ Consultas com 3 e 4 tabelas simultaneamente
-
-✔ Agregações com GROUP BY
-
-✔ Funções de agregação (COUNT, SUM)
-
-✔ Filtros condicionais
-
-✔ Subconsultas com NOT IN
-
-✔ Interpretação de regras de negócio através de consultas
+<p align="center"> <img src="https://img.shields.io/badge/INNER%20JOIN-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/MULTIPLE%20JOINS-2196F3?style=for-the-badge" /> <img src="https://img.shields.io/badge/GROUP%20BY-9C27B0?style=for-the-badge" /> <img src="https://img.shields.io/badge/COUNT()%20%2F%20SUM()-FF9800?style=for-the-badge" /> <img src="https://img.shields.io/badge/SUBQUERIES-F44336?style=for-the-badge" /> <img src="https://img.shields.io/badge/FILTERS%20(WHERE)-607D8B?style=for-the-badge" /> </p><p align="center"> <img src="https://img.shields.io/badge/INNER%20JOIN-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/MULTIPLE%20JOINS-2196F3?style=for-the-badge" /> <img src="https://img.shields.io/badge/GROUP%20BY-9C27B0?style=for-the-badge" /> <img src="https://img.shields.io/badge/COUNT()%20%2F%20SUM()-FF9800?style=for-the-badge" /> <img src="https://img.shields.io/badge/SUBQUERIES-F44336?style=for-the-badge" /> <img src="https://img.shields.io/badge/FILTERS%20(WHERE)-607D8B?style=for-the-badge" /> </p>
 
 📌 Nível: Intermediário em SQL (foco em banco relacional e consultas complexas)
